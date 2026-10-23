@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "name":"Lasagna-yumm",
+        "price":"$91.67",
+        "img":"lasagna.png"
+    },
+    
+    {
+        "id":1,
+        "name":"Pizza-hurt",
+        "price":"$9.67",
+        "img":"pizza.png"
+    },
+    
+    {
+        "id":1,
+        "name":"Fried Chicken",
+        "price":"$1.67",
+        "img":"fried-chicken.png"
+    },
+    
+    {
+        "id":1,
+        "name":"Spring-Roll",
+        "price":"$7.67",
+        "img":"spring-roll.png"
+    },
+    
+    {
+        "id":1,
+        "name":"Spaghetti",
+        "price":"$9.00",
+        "img":"spaghetti.png"
+    },
+    
+    {
+        "id":1,
+        "name":"Double-Beef-Burger",
+        "price":"$9.99",
+        "img":"burger.png"
+    },
+    
+    {
+        "id":1,
+        "name":"Sandwich",
+        "price":"$12.00",
+        "img":"sandwich.png"
+    },
+    
+    {
+        "id":1,
+        "name":"Chicken-Roll",
+        "price":"$3.91",
+        "img":"chicken-roll.png"
+    }
+]
